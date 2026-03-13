@@ -113,7 +113,7 @@ An interactive HR dashboard was created with:
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](Dashboard.png)
+![HR Attrition Dashboard](images/Dashboard.png)
 
 ## Author
 
