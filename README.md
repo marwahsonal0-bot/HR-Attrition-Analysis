@@ -113,9 +113,7 @@ An interactive HR dashboard was created with:
 
 ## Dashboard Preview
 
-Power BI dashboard used to visualize HR attrition patterns and identify key factors influencing employee turnover.
-
----
+![HR Attrition Dashboard](Dashboard.png)
 
 ## Author
 
